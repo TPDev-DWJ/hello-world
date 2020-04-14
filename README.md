@@ -3,4 +3,4 @@
 
 Hi guys!
 
-TPDev here, i want to be a dev
+TPDev here, i want to be a dev, that's why i'm here to try Git-Hub :)
